@@ -8,8 +8,8 @@ Possible measures that could be taken when upscaling the service could be to uti
 A Flask server could be used to handle both requests and to store the images. Timers could also be used to periodically delete old images from the server.
 
 ### How to use
-    ```console
-    $ pip install -r requirements.txt
-    $ python cartoonize_api.py
-    ```
+```console
+$ pip install -r requirements.txt
+$ python cartoonize_api.py
+```
 
